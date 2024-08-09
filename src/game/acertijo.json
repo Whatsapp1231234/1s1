@@ -16,60 +16,60 @@
         "response": "Компьютер"
     },
     {
-        "question": "¿Qué fruta tiene muchos ojos, pero no puede ver?",
-        "response": "La piña"
+        "question": "¿У какого фрукта много глаз, но он не видит?",
+        "response": "Ананас"
     },
     {
-        "question": "¿En qué idioma se comunican las tortugas?",
-        "response": "En tortugués"
+        "question": "¿На каком языке общаются черепахи?",
+        "response": "На кривых"
     },
     {
-        "question": "¿Cómo llama un policía sevillano a su pistola?",
-        "response": "Mi arma"
+        "question": "¿Как севильский полицейский называет свой пистолет?",
+        "response": "Мое оружие"
     },
     {
-        "question": "¿Qué es todo para uno y nada para lo demás?",
-        "response": "La mente"
+        "question": "¿Что такое все для одного и ничего для остальных?",
+        "response": "Ум"
     },
     {
-        "question": "¿Cuál es el colmo de una aspiradora?",
-        "response": "Ser alérgica al polvo"
+        "question": "¿В чем преимущество пылесоса?",
+        "response": "Аллергия на пыль"
     },
     {
-        "question": "¿Qué es aquello que si nombras, desaparece?",
-        "response": "El silencio"
+        "question": "¿Что такое то, что, если вы назовете, исчезнет?",
+        "response": "Молчание"
     },
     {
-        "question": "¿Qué necesitamos para escribir durmiendo?",
-        "response": "Estar despiertos"
+        "question": "¿Что нам нужно написать во сне?",
+        "response": "Бодрствование"
     },
     {
-        "question": "¿Qué objeto puede tener cara sin poseer cuerpo?",
-        "response": "Una moneda"
+        "question": "¿Какой объект может иметь лицо, не обладая телом?",
+        "response": "Валюта"
     },
     {
-        "question": "Alimenta la casa, Gabinete con hielo",
-        "response": "La nevera"
+        "question": "Накорми дом, Шкаф со льдом",
+        "response": "Холодильник"
     },
     {
-        "question": "¿Qué tienen las mujeres en medio de las piernas?",
-        "response": "Las rodillas"
+        "question": "¿Что у женщин в середине ног?",
+        "response": "Колено"
     },
     {
-        "question": "Entra duro y seco y sale blandito y mojado ¿Qué es?",
-        "response": "Un chicle"
+        "question": "Он становится твердым и сухим, а выходит мягким и влажным Что это?",
+        "response": "Жевательная резинка"
     },
     {
-        "question": "Estoy en todo y estoy en nada ¿qué soy?",
-        "response": "La letra d"
+        "question": "Я во всем, и я ни в чем, кто я такой?",
+        "response": "Буква d"
     },
     {
-        "question": "Continuas en rojo, pero te paras en verde. ¿Qué soy?",
-        "response": "Una sandía"
+        "question": "Ты продолжаешь красным, но останавливаешься на зеленом. Кто я такой?",
+        "response": "Арбуз"
     },
     {
-        "question": "¿Qué es negro cuando lo compras, rojo cuando lo usas, y gris cuando lo tiras?",
-        "response": "El carbón"
+        "question": "¿Что такое черный, когда вы его покупаете, красный, когда вы его носите, и серый, когда вы его снимаете?",
+        "response": "Уголь"
     },
     {
         "question": "¿Qué hay delante de ti siempre pero que no se puede ver?",
@@ -200,19 +200,19 @@
         "response": "El codo"
     },
     {
-       "question": "Se estrella un avión y mueren todos, justo en la frontera entre España y Portugal ¿A que Hospital tienen que llevar a los supervivientes? ",
-        "response": "No hay supervivientes"
+       "question": "Самолет терпит крушение, и все они погибают прямо на границе Испании и Португалии В какую больницу должны доставить выживших? ",
+        "response": "Выживших нет"
     },
     {
-       "question": "Este banco está ocupado por un padre y por un hijo, el padre se llama Juan y el hijo ya te lo he dicho",
-        "response": "Esteban"
+       "question": "Этот банк занимают отец и сын, отца зовут Хуан, а сына я тебе уже говорил",
+        "response": "Эстебан"
     },
     {
-       "question": "Algunos meses tienen 31 días, otros solo 30.¿Cuantos tienen 28 días?",
-        "response": "Todos"
+       "question": "В некоторых месяцах 31 день, в других всего 30. Сколько в них 28 дней?",
+        "response": "Все"
     },
     {
-       "question": "No lo puedes ver, pero no puedes vivir sin él. ¿Qué es?",
-       "response": "El aire"
+       "question": "Ты не можешь этого видеть, но ты не можешь жить без этого. Что это такое?",
+       "response": "Воздух"
 }
 ]
