@@ -316,7 +316,7 @@ ${tradutor.texto27[3]}`.trim();
       }
       global.opts['swonly'] = isEnable;
       break;
-    case 'anticall':
+    case 'антивызов':
       isAll = true;
       if (!(isROwner || isOwner)) {
         global.dfail('owner', m, conn);
@@ -348,7 +348,7 @@ ${tradutor.texto27[3]}`.trim();
       }
       bot.antispam = isEnable;
       break;
-    case 'antitoxic':
+    case 'антивирус':
       if (m.isGroup) {
         if (!(isAdmin || isROwner || isOwner)) {
           global.dfail('admin', m, conn);
@@ -365,7 +365,7 @@ throw false
 }}
 chat.game = isEnable          
 break;
-    case 'antitraba':
+    case 'антиараб3':
       if (m.isGroup) {
         if (!(isAdmin || isROwner || isOwner)) {
           global.dfail('admin', m, conn);
