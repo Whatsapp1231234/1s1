@@ -1,5 +1,5 @@
 {
-  "name": "TheMystic-Bot-MD",
+  "name": "The WhatsApp Bot - MD",
   "version": "1.0.0",
   "description": "Subs. al canal de YT The Shadow Borkers - TEAM",
   "main": "index.js",
@@ -18,13 +18,13 @@
     "eslint": "eslint .",
     "eslintfix": "eslint --fix ."
   },
-  "homepage": "https://github.com",
+  "homepage": "https://github.com/Whatsapp1231234/1s1",
   "author": {
     "name": "BrunoSobrino"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com.git"
+    "url": "git+https://github.com/Whatsapp1231234/1s1.git"
   },
   "bugs": {
     "url": "https://github.com/issues"
